@@ -22,7 +22,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system for answer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-chatbot-rag.git
+   git clone https://github.com/Rahul-Chotaliya/Youtube-Chatbot.git
    cd youtube-chatbot-rag
    ```
 
